@@ -1,0 +1,1 @@
+Sample Rails app with CKeditor Mongoid and Paperclip

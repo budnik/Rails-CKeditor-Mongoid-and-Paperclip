@@ -1,0 +1,190 @@
+{
+  "startedDateTime": "2012-08-01T08:11:14.779Z",
+  "time": 1740,
+  "request": {
+    "method": "GET",
+    "url": "https://target-sandbox.mail.ru/ads/campaigns.json",
+    "httpVersion": "HTTP/1.1",
+    "headers": [
+      {
+        "name": "Accept-Encoding",
+        "value": "gzip,deflate,sdch"
+      },
+      {
+        "name": "Accept-Language",
+        "value": "uk-UA,uk;q=0.8,ru;q=0.6,en-US;q=0.4,en;q=0.2"
+      },
+      {
+        "name": "Cookie",
+        "value": "ab_55_10=0; p=sjAAAOPhkgAA; i=AQDoXRJQAQATAAgEARonAQ==; __utma=56108983.985393415.1343387559.1343387559.1343387559.1; __utmz=56108983.1343387559.1.1.utmcsr=api.mail.ru|utmccn=(referral)|utmcmd=referral|utmcct=/apps/my/; z=4244defb3c033ee95e36ce483b51fa03; mrcu=BC9650113A9E28DC8710CE9318C3; odklmbind=1343719889944_1509690751172; odklmapi=$$7nzIzycOzlqPCfcygGBpzx=HG9yj2OKMRY2zQ+HGT92im8; b=vzwHAEBNEwcABIouQDRAISKfhNiHCvp2JsDlrpDiA8IIAAAD; c=gYoXUAAAMMpOCgARABAAFAAWlpkCAGVvegAAAEAPADuhCgAA; Mpop=1343807709:7b5846526454406519050219081d00071c0505004966535c465d000705000216020670165d555844435e4c5540555a5e52105d57515e1c4a4c:dmitriybudnik@mail.ru:; VID=0aHQi108baX0"
+      },
+      {
+        "name": "Connection",
+        "value": "keep-alive"
+      },
+      {
+        "name": "Accept-Charset",
+        "value": "windows-1251,utf-8;q=0.7,*;q=0.3"
+      },
+      {
+        "name": "Host",
+        "value": "target-sandbox.mail.ru"
+      },
+      {
+        "name": "User-Agent",
+        "value": "Mozilla/5.0 (X11; Linux i686) AppleWebKit/535.19 (KHTML, like Gecko) Ubuntu/12.04 Chromium/18.0.1025.168 Chrome/18.0.1025.168 Safari/535.19"
+      },
+      {
+        "name": "Accept",
+        "value": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8"
+      }
+    ],
+    "queryString": [],
+    "cookies": [
+      {
+        "name": "ab_55_10",
+        "value": "0",
+        "expires": null,
+        "httpOnly": false,
+        "secure": false
+      },
+      {
+        "name": "p",
+        "value": "sjAAAOPhkgAA",
+        "expires": null,
+        "httpOnly": false,
+        "secure": false
+      },
+      {
+        "name": "i",
+        "value": "AQDoXRJQAQATAAgEARonAQ==",
+        "expires": null,
+        "httpOnly": false,
+        "secure": false
+      },
+      {
+        "name": "__utma",
+        "value": "56108983.985393415.1343387559.1343387559.1343387559.1",
+        "expires": null,
+        "httpOnly": false,
+        "secure": false
+      },
+      {
+        "name": "__utmz",
+        "value": "56108983.1343387559.1.1.utmcsr=api.mail.ru|utmccn=(referral)|utmcmd=referral|utmcct=/apps/my/",
+        "expires": null,
+        "httpOnly": false,
+        "secure": false
+      },
+      {
+        "name": "z",
+        "value": "4244defb3c033ee95e36ce483b51fa03",
+        "expires": null,
+        "httpOnly": false,
+        "secure": false
+      },
+      {
+        "name": "mrcu",
+        "value": "BC9650113A9E28DC8710CE9318C3",
+        "expires": null,
+        "httpOnly": false,
+        "secure": false
+      },
+      {
+        "name": "odklmbind",
+        "value": "1343719889944_1509690751172",
+        "expires": null,
+        "httpOnly": false,
+        "secure": false
+      },
+      {
+        "name": "odklmapi",
+        "value": "$$7nzIzycOzlqPCfcygGBpzx=HG9yj2OKMRY2zQ+HGT92im8",
+        "expires": null,
+        "httpOnly": false,
+        "secure": false
+      },
+      {
+        "name": "b",
+        "value": "vzwHAEBNEwcABIouQDRAISKfhNiHCvp2JsDlrpDiA8IIAAAD",
+        "expires": null,
+        "httpOnly": false,
+        "secure": false
+      },
+      {
+        "name": "c",
+        "value": "gYoXUAAAMMpOCgARABAAFAAWlpkCAGVvegAAAEAPADuhCgAA",
+        "expires": null,
+        "httpOnly": false,
+        "secure": false
+      },
+      {
+        "name": "Mpop",
+        "value": "1343807709:7b5846526454406519050219081d00071c0505004966535c465d000705000216020670165d555844435e4c5540555a5e52105d57515e1c4a4c:dmitriybudnik@mail.ru:",
+        "expires": null,
+        "httpOnly": false,
+        "secure": false
+      },
+      {
+        "name": "VID",
+        "value": "0aHQi108baX0",
+        "expires": null,
+        "httpOnly": false,
+        "secure": false
+      }
+    ],
+    "headersSize": 1139,
+    "bodySize": 0
+  },
+  "response": {
+    "status": 200,
+    "statusText": "OK",
+    "httpVersion": "HTTP/1.1",
+    "headers": [
+      {
+        "name": "Date",
+        "value": "Wed, 01 Aug 2012 08:11:16 GMT"
+      },
+      {
+        "name": "Transfer-Encoding",
+        "value": "chunked"
+      },
+      {
+        "name": "Connection",
+        "value": "keep-alive"
+      },
+      {
+        "name": "Server",
+        "value": "nginx/1.1.7"
+      },
+      {
+        "name": "Vary",
+        "value": "Cookie"
+      },
+      {
+        "name": "Content-Type",
+        "value": "text/html; charset=utf-8"
+      }
+    ],
+    "cookies": [],
+    "content": {
+      "size": 65272,
+      "mimeType": "text/html",
+      "compression": -113
+    },
+    "redirectURL": "",
+    "headersSize": 183,
+    "bodySize": 65385
+  },
+  "cache": {},
+  "timings": {
+    "blocked": 0,
+    "dns": -1,
+    "connect": -1,
+    "send": 0,
+    "wait": 1629,
+    "receive": 45,
+    "ssl": -1
+  },
+  "pageref": "page_1"
+}
